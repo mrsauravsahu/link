@@ -10,7 +10,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "bundle": "rimraf dist && mkdir dist && cp index.html globals.css dist && echo 'links.mrsauravsahu.tech' > dist/CNAME",
+    "bundle": "rimraf dist && mkdir dist && cp src/* dist && echo 'links.mrsauravsahu.tech' > dist/CNAME",
     "deploy": "gh-pages -b master -d dist"
   },
   "repository": {
