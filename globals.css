@@ -3,7 +3,7 @@
 
 :root {
   --accent-color: #4F4F50;
-  --secondary-color: #EEE;
+  --secondary-color: rgb(255, 255, 255);
 
   --accent-bg: #DBDBDB;
   --secondary-bg: #717D88;
