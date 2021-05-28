@@ -81,7 +81,7 @@ p {
   width: 100%;
   text-align: center;
   text-decoration: none;
-  padding: 1rem 0.5rem 2rem;
+  padding: 1rem 0 2rem 0;
 }
 
 a:active {
